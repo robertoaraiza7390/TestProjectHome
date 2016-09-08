@@ -1,0 +1,12 @@
+git status
+git add
+git commmit
+
+
+
+use "-m" to add a message, just add parenthesis
+
+
+HINT: If use forgot to add message in commit ("-m") then it will take you a screen from which you cannot escape from...
+To escape, first press ESC, then type ":wq" . That will save it too. You can add message on top first before saving. 
+Then scroll to the bottom. 
